@@ -20,5 +20,4 @@ Key1-03-03-2026-BOŞ
 
 ---
 *Not: Yeni lisans eklerken aralara boşluk bırakmayın ve tire (-) işaretlerine dikkat edin.*
-REHA2026-04-03-2026-BOŞ
 reha2026-04-03-2026-BOŞ
